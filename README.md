@@ -33,3 +33,14 @@ sh mvnw package -Dallow.run=false
 java -jar target/Prac7-0.0.1-SNAPSHOT.jar -Dallow.run=true
 ```
 6. После запуска сервера запускается клиент, демонстрирующий работу REST запросов.
+
+![Image alt](https://github.com/Bokalysha/RKIS_7/blob/master/screenshots/1.jpg)
+_Рисунок 1 - Начало работы клиента_
+
+![Image alt](https://github.com/Bokalysha/RKIS_7/blob/master/screenshots/2.jpg)
+_Рисунок 2 - Окончание работы клиента_
+
+7. Открываем в браузере [главную страницу](http://127.0.0.1:8080/) и взаимодействуем с ней как обычно
+
+![Image alt](https://github.com/Bokalysha/RKIS_7/blob/master/screenshots/3.jpg)
+_Рисунок 3 - Сохраненный функционал 5 практической работы_
